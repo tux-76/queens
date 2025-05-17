@@ -66,7 +66,7 @@ $ ./queens generate 8 -s output.csv
 # Improvements & Limitations
 This project has much potential to grow, and any contributions are welcome!
 
-- ⭐ Needs a user-friendly interface both for generating and playing generated games. *For now they have to be drawn by hand for any actual solving; tedious, I know...*important
+- ⭐ Needs a user-friendly interface both for generating and playing generated games. *For now they have to be drawn by hand for any actual solving*
 - ⭐ Option for multiple generations of saved data.
 - Could have a GitHub-hosted database of pre-generated games and an online website for playing them on the go.
 - Weighting or limiting the randomness for less desirable boards (e.g. one with colors occupying only 1 square).
